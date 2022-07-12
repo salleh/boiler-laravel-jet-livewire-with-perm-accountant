@@ -194,6 +194,18 @@ return [
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
+        App\Providers\FortifyServiceProvider::class,
+        App\Providers\JetstreamServiceProvider::class,
+
+        /**
+         * Spatie laravel-permission
+         */
+        Spatie\Permission\PermissionServiceProvider::class,
+
+        /**
+         * Altek Accountant
+         */
+        Altek\Accountant\AccountantServiceProvider::class,
 
     ],
 
