@@ -21,6 +21,14 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## About This Boilerplace
+
+This boilerplate contains fresh laravel setup with the following packages included:
+
+- Jetstream with livewire stack without team
+- Spatie laravel permission
+- Altek Accountant
+  - App\Models\User already configured as recordable
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
